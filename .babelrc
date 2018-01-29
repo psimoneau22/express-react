@@ -1,0 +1,12 @@
+{
+    "presets": [
+        ["@babel/env", {
+            "targets": {
+                "node": "9.3.0"
+            }
+        }]
+    ],
+    "ignore": [
+        "src/wwwroot"
+    ]
+}
